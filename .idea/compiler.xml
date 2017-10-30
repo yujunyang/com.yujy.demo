@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="com.yujy.demo.arithmeticAndDataStructure" />
+        <module name="com.yujy.demo.design.Pattern" />
+        <module name="com.yujy.demo.designPattern" />
+        <module name="com.yujy.demo.functionalProgramming" />
+        <module name="com.yujy.demo.netty" />
+        <module name="com.yujy.demo.nio" />
+        <module name="comyujydemonetty" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.yujy.demo" target="1.5" />
+      <module name="com.yujy.demo.arithmeticAndDataStructure" target="1.5" />
+      <module name="com.yujy.demo.design.Pattern" target="1.5" />
+      <module name="com.yujy.demo.designPattern" target="1.5" />
+      <module name="com.yujy.demo.functionalProgramming" target="1.8" />
+      <module name="com.yujy.demo.netty" target="1.5" />
+      <module name="com.yujy.demo.nio" target="1.5" />
+      <module name="comyujydemonetty" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

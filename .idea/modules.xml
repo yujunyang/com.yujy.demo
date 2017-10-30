@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.yujy.demo.iml" filepath="$PROJECT_DIR$/com.yujy.demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.yujy.demo.arithmeticAndDataStructure/com.yujy.demo.arithmeticAndDataStructure.iml" filepath="$PROJECT_DIR$/com.yujy.demo.arithmeticAndDataStructure/com.yujy.demo.arithmeticAndDataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.yujy.demo.designPattern/com.yujy.demo.designPattern.iml" filepath="$PROJECT_DIR$/com.yujy.demo.designPattern/com.yujy.demo.designPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.yujy.demo.functionalProgramming/com.yujy.demo.functionalProgramming.iml" filepath="$PROJECT_DIR$/com.yujy.demo.functionalProgramming/com.yujy.demo.functionalProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.yujy.demo.netty/com.yujy.demo.netty.iml" filepath="$PROJECT_DIR$/com.yujy.demo.netty/com.yujy.demo.netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.yujy.demo.nio/com.yujy.demo.nio.iml" filepath="$PROJECT_DIR$/com.yujy.demo.nio/com.yujy.demo.nio.iml" />
+    </modules>
+  </component>
+</project>
