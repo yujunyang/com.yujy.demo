@@ -1,6 +1,6 @@
 /**
- * Created by Administrator on 2017/10/25.
- * 原型模式
+ *  Created by Administrator on 2017/10/25.
+ *  原型模式
  */
 package com.yujy.designPattern23.prototype;
 
